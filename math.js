@@ -20,3 +20,7 @@ const number = 265.65454;
 const fullnum = Math.round (number);
 console.log(fullnum);
 
+// random number
+
+const random =  Math.round(Math.random()*6);
+console.log(random);
